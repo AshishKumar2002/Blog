@@ -1,0 +1,4 @@
+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
+
+ git remote set-url origin https://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
+@github.com/AshishKumar2002/BlogChallenge.git
